@@ -1,0 +1,18 @@
+    // DONE: Get Into The tank Logic
+    // DONE: Get Out Of the Tank Logic
+    // DONE: Switch of camera (from player to tank)
+    // DONE: Switch of camera (from tank to player)
+
+    // DONE: Refactor Player controlls (so it works with 2 players)
+    // DONE: Health Bar Tank
+    // DONE: Health Bar Player
+    // DONE: Collect Resources
+    
+    // DONE: Make Turret Rotate 
+    // DONE: Shootingz
+    // DONE: Enemy Spawn
+    // DONE: Enemy AI
+
+    // DONE: Repair Tank
+    //TODO: Implement Second Player
+    // DONE: Get Out of the tank when it's broken
